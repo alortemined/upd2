@@ -1,0 +1,6 @@
+C:\Users\khali\RiderProjects\UPD2\laba 2.5\bin\Debug\laba_2._5.exe
+C:\Users\khali\RiderProjects\UPD2\laba 2.5\bin\Debug\laba_2._5.pdb
+C:\Users\khali\RiderProjects\UPD2\laba 2.5\obj\Debug\laba 2.5.csproj.AssemblyReference.cache
+C:\Users\khali\RiderProjects\UPD2\laba 2.5\obj\Debug\laba 2.5.csproj.CoreCompileInputs.cache
+C:\Users\khali\RiderProjects\UPD2\laba 2.5\obj\Debug\laba_2._5.exe
+C:\Users\khali\RiderProjects\UPD2\laba 2.5\obj\Debug\laba_2._5.pdb
